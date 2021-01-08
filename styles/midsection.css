@@ -104,17 +104,8 @@
     scrollbar-width: none;
     display: inline-flex;
     flex-wrap: nowrap;
-<<<<<<< HEAD
-<<<<<<< HEAD
     padding: 0.5rem 0;
-=======
-    padding-top: 0.5rem;
->>>>>>> parent of 37fc348 (styles/midsection.css edited online with Bitbucket)
-=======
-    padding: 0.5rem 0;
->>>>>>> 5918ea245cdd2cd4e0cb5026c327cfa2b2e33c95
     text-align: left;
-    width: auto;
 }
 
 .card-list > div {
@@ -123,24 +114,12 @@
     background-repeat: no-repeat;
     background-position: bottom right;
     background-size: 60% 60%;
-<<<<<<< HEAD
-<<<<<<< HEAD
     border-radius: 1rem;
-=======
->>>>>>> parent of 37fc348 (styles/midsection.css edited online with Bitbucket)
-=======
-    border-radius: 1rem;
->>>>>>> 5918ea245cdd2cd4e0cb5026c327cfa2b2e33c95
     box-shadow: 9px 9px 10px #3d3c3c;
-    flex: none;
     height: 13rem;
     line-height: 2rem;
     margin:1rem 3rem;
     padding:1rem ;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 5918ea245cdd2cd4e0cb5026c327cfa2b2e33c95
     width: 13.5rem; 
 }
 
@@ -149,37 +128,16 @@
     background-repeat: no-repeat;
     background-size: 100% 100%;
     cursor: pointer;
-<<<<<<< HEAD
-=======
-    width: 13.5rem;
-}
-
-.card-list > div:hover {
-    cursor: pointer;
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
->>>>>>> parent of 37fc348 (styles/midsection.css edited online with Bitbucket)
-=======
->>>>>>> 5918ea245cdd2cd4e0cb5026c327cfa2b2e33c95
     transform:scale(1.2);
     z-index: 2;   
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 5918ea245cdd2cd4e0cb5026c327cfa2b2e33c95
 
 @keyframes background-color {
   from {background-color: rgb(101, 139, 138);border: white solid 1px;}
   to {background-color: rgb(159, 159, 194);border: white dashed 1px;}
 }
 
-<<<<<<< HEAD
-=======
->>>>>>> parent of 37fc348 (styles/midsection.css edited online with Bitbucket)
-=======
->>>>>>> 5918ea245cdd2cd4e0cb5026c327cfa2b2e33c95
 .arrow {
     display: inline-flex;
 }
